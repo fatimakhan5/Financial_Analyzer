@@ -154,3 +154,6 @@ Financial-Analyzer/
 ├── sample_financial_data.csv
 ├── requirements.txt
 └── README.md
+## 🚀 Live Demo
+
+[Open Financial Analyzer](https://financialanalyzer-stxnr7ortp6ms42g9ydsie.streamlit.app/)
