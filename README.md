@@ -161,8 +161,8 @@ Financial-Analyzer/
 ![Financial Analyzer Dashboard]
 (dashboard.png)
 ## Visualizations
-![Financial Analyzer Dashboard]
+![Financial Analyzer Charts]
 (charts.png)
 ## Automatic Insights
-![Financial Analyzer Dashboard]
+![Financial Analyzer Insights]
 (insights.png)
