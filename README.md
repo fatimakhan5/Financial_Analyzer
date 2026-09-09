@@ -157,3 +157,12 @@ Financial-Analyzer/
 ## 🚀 Live Demo
 
 [Open Financial Analyzer](https://financialanalyzer-stxnr7ortp6ms42g9ydsie.streamlit.app/)
+## Dashboard
+![Financial Analyzer Dashboard]
+(dashboard.png)
+## Visualizations
+![Financial Analyzer Dashboard]
+(charts.png)
+## Automatic Insights
+![Financial Analyzer Dashboard]
+(insights.png)
