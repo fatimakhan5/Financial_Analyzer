@@ -150,7 +150,7 @@ Liabilities-to-Equity = Liabilities / Equity
 Financial-Analyzer/
 │
 ├── app.py
-├── Financial Analyzer.ipynb
+├── Financial Analyzer(2).ipynb
 ├── sample_financial_data.csv
 ├── requirements.txt
 └── README.md
